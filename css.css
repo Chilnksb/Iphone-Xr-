@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css?family=Cuprum');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+@media only screen and (min-width : 1824px) {
+	Body {text-align:center;}
+	
+}
+
+@media screen and (max-width: 576px) {
+     body {
+	 text-align:center;}
+}
+
+* {
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	font-family: "Cuprum","Raleway", sans-serif;
+	
+	-webkit-font-smoothing: antialiased;
+	-webkit-overflow-scrolling: touch;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family:"Raleway";
+	font-weight:300;
+	color:#333;
+}
+	
+header {
+ background-color:#227748;
+background-repeat:no-repeat;
+width:100%;
+height:auto;
+background:-webkit-linear-gradient(left,blue,red);
+}
+
+.logo {
+	font-size:160%;
+	margin-left:2%;
+	margin-top:-1;
+	text-align:center;
+}
+
+.ip {
+	color:#E2BE2C;
+}
+
+.ho {
+	color:#C10002;
+}
+
+.ne {
+	color:#F1F1F1;
+}
+
+.xr {
+	font-size:360%;
+	color:#41A9E0;
+}
+
+.apple {
+	position:fixed;
+	right:0%;
+}
+
+.rington {
+	display:block;
+	width:167px;
+	height:16px;
+	margin-left:2%;
+}
+
+.line {
+	color:#E8E8FF;
+}
+.line:hover {
+	text-decoration:none;
+	color:black;
+}
+
+.about_telefoneh2 {
+	text-transform:uppercase;
+	text-align:center;
+	color:#41A9E0;
+}
+
+.about_telefone {
+	color:#41A9E0;
+	font-size:21px;
+	margin-left:100px;
+	float:left;
+	width:44%;
+}
+
+.displh2 {
+	text-transform:uppercase;
+	text-align:center;
+	color:#FEAE17;
+	margin-top:10%;
+	clear:both;
+}
+
+.text_yellow {
+	color:#FEAE17;
+	font-size:21px;
+	width:44%;
+	float:left;
+	margin-left:100px;
+}
+
+
+.iphone_red {
+	font-size:21px;
+	width:44%;
+	float:left;
+	margin-left:100px;
+	color:#BF3825;
+}
+
+.memoryh2 {
+	text-transform:uppercase;
+	text-align:center;
+	color:black;
+	clear:both;
+}
+
+.text_black {
+	font-size:21px;
+	width:44%;
+	float:left;
+	margin-left:100px;
+	color:black;
+}
+
+.whater {
+	margin-left:30%;
+	font-size:26px;
+}
+
+.camerah2 {
+	text-transform:uppercase;
+	text-align:center;
+	color:#9B0109;
+	margin-top:50px;
+	clear:both;
+}
+
+.camera {
+	font-size:21px;
+	width:44%;
+	float:left;
+	margin-left:100px;
+	color:#9B0109;
+}
+
+.batteryh2 {
+	text-transform:uppercase;
+	text-align:center;
+	color:black;
+	clear:both;
+}
+
+.battery {
+	font-size:21px;
+	width:44%;
+	float:left;
+	margin-left:100px;
+}
